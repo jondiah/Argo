@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fonts/font-awesome-4.2.0/scss/_variables.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_stacked.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_spinning.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_rotated-flipped.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_path.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_mixins.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_list.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_larger.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_icons.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/font-awesome.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_fixed-width.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_core.scss</file>
+        <file>Fonts/font-awesome-4.2.0/scss/_bordered-pulled.scss</file>
+        <file>Fonts/font-awesome-4.2.0/less/variables.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/stacked.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/spinning.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/rotated-flipped.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/path.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/mixins.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/list.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/larger.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/icons.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/font-awesome.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/fixed-width.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/core.less</file>
+        <file>Fonts/font-awesome-4.2.0/less/bordered-pulled.less</file>
+        <file>Fonts/font-awesome-4.2.0/fonts/fontawesome-webfont.woff</file>
+        <file>Fonts/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf</file>
+        <file>Fonts/font-awesome-4.2.0/fonts/fontawesome-webfont.svg</file>
+        <file>Fonts/font-awesome-4.2.0/fonts/fontawesome-webfont.eot</file>
+        <file>Fonts/font-awesome-4.2.0/fonts/FontAwesome.otf</file>
+        <file>Fonts/font-awesome-4.2.0/css/font-awesome.min.css</file>
+        <file>Fonts/font-awesome-4.2.0/css/font-awesome.css</file>
+    </qresource>
+</RCC>

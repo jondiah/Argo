@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/StartView.qml</file>
+        <file>Qml/Components/TextProvider.qml</file>
+        <file>Qml/Components/Indicator.qml</file>
+        <file>Qml/Components/Button.qml</file>
+        <file>Qml/Components/ApplicationWindow.qml</file>
+        <file>Qml/Components/ApplicationLoader.qml</file>
+        <file>Qml/Map/MapInteraction.qml</file>
+        <file>Qml/Target/TargetInteraction.qml</file>
+        <file>Qml/Target/ConnectionSettings.qml</file>
+        <file>Qml/Map/MapFileLoader.qml</file>
+        <file>Qml/Map/MapSettings.qml</file>
+        <file>Qml/Map/TrucksLoadedList.qml</file>
+        <file>Qml/Map/GoogleMapsInteraction.js</file>
+        <file>Qml/Map/TrucksRunningList.qml</file>
+    </qresource>
+</RCC>

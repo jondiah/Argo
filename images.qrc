@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/trucker.png</file>
+        <file>Images/truck.jpg</file>
+        <file>Images/truck_icon.jpg</file>
+        <file>Images/home_icon.jpg</file>
+        <file>Images/truck_icon.png</file>
+        <file>Images/home_icon.png</file>
+        <file>Images/market_red.png</file>
+        <file>Images/marker_green.png</file>
+        <file>Images/truck_icon_blue.png</file>
+        <file>Images/marker_blue.png</file>
+    </qresource>
+</RCC>
